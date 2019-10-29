@@ -15,3 +15,5 @@ Defines the non-linear constraints such as axial, bending stresses and maximum a
 
 SQP_nonlfun.m
 Implements weighted sum
+
+With finding many values of do, t for the design we can find an optimal value by plotting a utopia frontier chart. That will show when two objective functions are minimized simultaneously, there is certainly tradeoff in the design. It also demonstrates that an ideal design model can obtained by choosing appropriate weight values, so the designer gets the best values to choose from.
